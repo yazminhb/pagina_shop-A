@@ -1,0 +1,17 @@
+<html> 
+<head> 
+<title> SHOP P&A </title> 
+</head>  
+<body bgcolor="pink">  
+<img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/>
+<center><h1 style="color:HotPink;">CONTACTANOS</h1></center>
+<center><menu>
+<a href="INICIO">Inicio</a>
+<a href="CATALOGO">Catalogo</a>
+<a href="CONTACTANOS">Contactanos</a>
+<p><font size=6 font face=“Calibri">En este apartado encontraras el cómo localizarnos, y así obtener tus productos.</p>
+<p>Al igual encontraras nuestra página en instagram para que así tengas la oportunidad de ver mejor nuestros productos. </p>
+<p>Te dejamos el link para que puedas ir directo a nuestra página desde tu cuenta de Instagram </p></font></font> 
+<p align="center"><img src="Instagram.png" width="120"  heigth="100"/> <p><a href="https://instagram.com/_shop_p.a_?utm_medium=copy_link" target=_blank"> Ir a SHOP P&A </a></p>
+<p align="center"><img src="ubicacion.jpg" width="80"  heigth="100"/> <font size=6 font face=“Calibri">Zumpango, Town Center, Nextlaplan, PM</font></font>
+</menu></center>

@@ -1,0 +1,26 @@
+<html> 
+<head> 
+<title> SHOP P&A </title> 
+</head>  
+<body bgcolor="pink">  
+<img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/><img src="fondo.jpg" width="100"  heigth="1600"/>
+<center><h1 style="color:HotPink;">SHOP P&A</h1></center>
+<ul id="menu">
+<li><a href="Inicio.html">Inicio</a></li>
+<li><a href="CATALOGO">Catalogo</a></li>
+<li><a href="CONTACTANOS">Contactanos</a></li>
+</a></li>
+<p><font face="Arial" font size=5 style="color:white;">Para cualquier emprendedor: si quieres hacerlo, hazlo ahora. Si no lo haces te vas a arrepentir</font></p></font>
+<center><img src="unnamed.jpg" width="250"  heigth="250"/></center>
+<center><img src="shop.jpg" width="250"  heigth="200"/></center>
+<p><font size=6 font face=“Calibri">En esta página encontraras diferente tipo de ropa que está muy bonita y de buena calidad. </p>
+<p>Así como productos para el cuidado de la cara, al igual que ayudaras a las emprendedoras a crecer en su negocio</Font></p></font>
+<center><img src="shop.jpg" width="250"  heigth="200"/></center>
+<p><font size=6 font face="Calibri">En el menú puedes ir a otros hipervínculos de nuestra misma página, y así puedes ver un pequeño catálogo de nuestras prendas que más se venden, y así como nuestra red social para que nos puedas localizarnos.</font></p></font>
+
+<p> Bibliografia </p>
+<p>
+
+
+</body> 
+</html>

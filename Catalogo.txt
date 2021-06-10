@@ -1,0 +1,49 @@
+<html> 
+<head> 
+<title> SHOP P&A </title> 
+</head>  
+<body bgcolor="pink">  
+<img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/><img src="rosa.jpg" width="100"  heigth="1600"/>
+<center><h1 style="color:HotPink;">CATALOGO</h1></center>
+<center><menu>
+<a href="INICIO">Inicio</a>
+<a href="CATALOGO">Catalogo</a>
+<a href="CONTACTANOS">Contactanos</a>
+</menu></center>
+<p><font face="Arial" font size=5 style="color:MediumVioletRed;">En la siguiente tabla te mostraremos algunas de las prendas más vendidas en la tienda</font></p></font>
+<table border="6">  
+<tr>
+<th height="150" width="150" font size:"5"> Nombre del producto </th></font> 
+<th height="150" width="150" font size:"5"> Precio </th></font>
+</tr>
+<tr>
+<td height="150" width="150" font size:"5">Top Celia </td></font>
+<td height="150" width="150" font size:"5"> $160.00 </td></font>
+</tr>
+<tr>
+<td height="150" width="150" font size:"5">Top Milan </td></font>
+<td height="150" width="150" font size:"5"> $90.00 </td></font>
+</tr>
+<tr>
+<td height="150" width="150" font size:"5">Top Lirio </td></font>
+<td height="150" width="150" font size:"5">$100.00 </td></font>
+</tr>
+<tr>
+<td height="150" width="150" font size:"5">Top Gala </td></font>
+<td height="150" width="150" font size:"5"> $160.00 </td></font>
+</tr>
+<tr>
+<td height="150" width="150" font size:"5">Top Anali </td></font>
+<td height="150" width="150" font size:"5"> $120.00 </td></font>
+</tr>
+<tr>
+<td height="150" width="150" font size:"5">Top Eva </td></font>
+<td height="150" width="150" font size:"5"> $140.00 </td></font>
+</tr>
+</table>
+
+</body> 
+</html>
+
+
+
